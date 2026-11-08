@@ -1,0 +1,6 @@
+{
+  "name": "GreenThumb Lawn Care - Instant Quote Calculator",
+  "description": "Instant estimate calculator for residential lawn mowing, edging, cleanups, and weed treatment with transparent line-by-line pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
